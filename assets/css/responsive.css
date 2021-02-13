@@ -1,0 +1,925 @@
+@media only screen and (max-width: 7000px){
+	.page-wrapper{
+		overflow: hidden;
+	}
+	
+}
+
+
+
+
+
+@media only screen and (max-width: 1800px){
+	
+.testimonial {
+    width: 100%;
+    margin-left: 0;
+}
+.testimonial .testimonial-block .inner-box .image {
+    top: 0;
+}
+.testimonial .swiper-nav-button, .testimonial .testimonial-block .inner-box .testimonial:after, .testimonial .testimonial-block .inner-box .image:before, .testimonial:after {
+    display: none;
+}
+.testimonial .testimonial-block .inner-box .content-box:after {
+    bottom: 0;
+}
+.testimonial .testimonial-block .inner-box .ratting {
+    padding-bottom: 20px;
+}
+.testimonial .testimonial-thumbs {
+    /* max-width: 700px; */
+}
+.why-choos-us .image {
+    top: 0;
+    right: 0;
+}
+.why-choos-us .image img {
+    max-width: 100%;
+    float: left;
+    margin-bottom: 0;
+}
+.why-choos-us .service-block:before {
+    width: 100%;
+}
+.calltoaction {
+    padding: 100px 0px 100px 0px;
+    margin-top: 0;
+}
+.why-choos-us {
+    padding: 100px 0px 100px 0px;
+    background: #FAFAFA;
+}
+.scroll-to-top {
+    right: 15px;
+}
+.team {
+    padding: 100px 0px 100px 0px;
+}
+.clients {
+    padding: 100px 0px 100px 0px;
+    margin-top: 0;
+    background: #FAFAFA;
+}
+.work .item .lower-content {
+    background-size: cover;
+}
+.map-contact-info .contact {
+    margin-right: 200px;
+}
+.blog {
+    background: #FAFAFA;
+}
+.map-contact-info {
+    margin-top: 0;
+}
+.map-contact-info .contact {
+    padding-top: 100px;
+}
+.main-header.style-two .header-top .social-links {
+    display: none;
+}
+.main-header.style-two .header-top .inner {
+    overflow: hidden;
+    display: block;
+}
+.main-header.style-two .header-top .inner .language {
+    display: none;
+    float: left;
+}
+.main-header.style-two .welcome {
+    display: inline-block;
+    margin-left: 0;
+    float: left;
+}
+.main-header.style-two .header-top .mail {
+    margin-left: 0;
+    display: inline-block;
+    float: right;
+}
+.main-header.style-two .header-top {
+    text-align: center;
+}
+.about-two .images-gallery .image-one, .about-two .images-gallery .image-three, .about-two .images-gallery .image-four {
+	opacity: 0;
+}
+.about-two .images-gallery .image img {
+    width: 100%;
+}
+.about-two .images-gallery .image-two {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.whychoosus-two .image-two {
+    left: 15px;
+}
+.clients.two {
+    background: #fff;
+}
+.about-three .image-one {
+    position: relative;
+    right: 0;
+}
+.about-three .image-one img {
+    max-width: 100%;
+    float: unset;
+}
+.about-three .image-two {
+    position: relative;
+    right: 0;
+    top: 0;
+    margin-top: 30px;
+}
+.about-three .image-three {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    margin-top: 30px;
+}
+.about-three .image-three .image-box {
+    display: inline-block;
+}
+.features-three .theme_carousel {
+    margin: 0;
+}
+.about-three .right {
+    margin-right: 0;
+    margin-left: 0;
+}
+.main-header.style-four .header-top:before {
+    position: absolute;
+    border-top: 0;
+}
+.main-header.style-four .header-top {
+    background: #FAFAFA;
+}
+.main-header.style-four .header-upper {
+    background: #26272A;
+}
+.main-header.style-four .number {
+    top: 0;
+}
+.main-header.style-four .main-nav__right .search-popup__toggler {
+    color: #E49F37;
+}
+.main-header.style-four .main-nav__right .search-popup__toggler i:after {
+    background: #E49F37;
+}
+.main-header.style-four .cart-btn a i {
+    color: #E49F37;
+}
+.main-header.style-four .header-top {
+    text-align: center;
+}
+.main-header .header-top .inner .language {
+    display: inline-block;
+    float: left;
+}
+.main-header.style-four .welcome {
+    display: inline-block;
+    margin-left: 0;
+    float: left;
+}
+.main-header .header-top .inner .language {
+    display: none;
+}
+.main-header.style-four .header-top .mail {
+    margin-left: 0;
+    display: inline-block;
+    float: right;
+}
+.main-header.style-four .header-top .social-links {
+    margin-left: 20px;
+    display: none;
+    float: right;
+}
+.main-header.style-four  .header-top .inner {
+    display: block;
+	overflow: hidden;
+}
+.banner-section.style-four .slide-item .image-layer:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+	content: "";
+    width: 100%;
+    height: 100%;
+	background: rgba(0, 0, 0, 0.3);
+}
+.history-tab .right-column img {
+    max-width: none;
+    float: left;
+}
+.footer-bottom.style-four .auto-container {
+    padding: 30px 15px;
+	max-width: 1200px;
+    transform: translateY(-3px) skew(0deg);
+}
+.main-header .header-top .location {
+    display: inline-block;
+}
+.main-header .header-top .mail {
+    display: inline-block;
+}
+.main-header .header-top .social-links {
+    display: inline-block;
+}
+.main-header .header-top .author {
+    display: inline-block;
+}
+.mr_five .about-two .images-gallery img {
+    max-width: none;
+    width: 100%;
+    padding-right: 0;
+    margin-top: 0;
+}
+.whychoosus-two .image-one img {
+    max-width: 100%;
+    float: unset;
+}
+.whychoosus-two .image-one {
+    padding-top: 100px;
+}
+.whychoosus-three {
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 1690px){
+	.main-header.header-style-three .header-right-content {
+		display: none;
+	}
+}
+
+
+
+@media only screen and (max-width: 1500px){
+	.main-header.style-four .number {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1600px){
+	
+.services-section .left-column {
+	padding: 120px 50px 70px;
+}
+.about-us:before {
+	background: #FAFAFA;
+	width: 100%;
+}
+.anim-icons {
+	display: none;
+}
+.testimonial .testimonial-block .inner-box .image {
+    left: 0;
+    padding-left: 45px;
+}
+.testimonial {
+    margin-left: 0;
+}
+.testimonial .swiper-nav-button {
+    display: none;
+}
+.testimonial:after {
+    display: none;
+}
+.map-contact-info .contact {
+    margin-right: 150px;
+}
+.main-header.style-four .header-top .social-links {
+    margin-left: 0;
+    display: none;
+}
+.main-header.style-four .header-top .mail {
+    margin-left: 0 !important;
+    display: inline-block;
+    float: right;
+}
+.main-header .header-top .inner {
+    display: block;
+    overflow: hidden;
+}
+.history-tab .left-column {
+    padding: 220px 80px 0px 55px;
+}
+.main-header .header-top .author {
+    display: none;
+}
+
+
+
+
+}
+
+@media only screen and (max-width: 1199px){
+	
+.main-header .header-top .mail, .main-header .header-top .social-links, .main-header .header-top .location {
+    display: inline-block;
+	margin-left: 0px;
+	flex-wrap: unset;
+    -webkit-box-align: unset;
+    align-items: unset;
+}
+.main-header .header-top .inner {
+	display: block;
+}
+.main-header .header-top .social-links {
+    float: right;
+}
+.main-header .header-top .author {
+    display: none;
+}
+.main-header .header-top .mail {
+    margin-left: 230px !important;
+}
+.main-header .number {
+    display: none;
+}
+.main-nav__right {
+    float: right;
+}
+.banner-section .owl-theme .owl-nav .owl-prev, .banner-section .owl-theme .owl-nav .owl-next {
+    opacity: 0;
+}
+.banner-section:hover .owl-theme .owl-nav .owl-prev, .banner-section:hover .owl-theme .owl-nav .owl-next {
+    opacity: 1;
+}
+.service .item {
+    margin-bottom: 30px;
+}
+.sec-title h3 {
+    display: inline-block;
+}
+.sec-title h3:before {
+    width: 65px;
+}
+.about-us .image-box img {
+    max-width: 100%;
+    float: unset;
+    width: 100%;
+}
+.about-us .content {
+    text-align: center;
+}
+.about-us {
+    padding-bottom: 100px;
+}
+.company-direction .btn-two .btn-style-one .btn-title:after {
+    display: none;
+}
+.company-direction .btn-style-one .btn-title:after {
+    display: none;
+}
+.company-direction .btn-style-one .btn-title, .company-direction .btn-style-two .btn-title {
+    padding: 11px 15px 11px 15px;
+}
+.faqs-testimonials .btn-box {
+    margin-bottom: 30px;
+}
+.testimonial:before {
+    right: 0;
+    background: #FAFAFA;
+}
+.testimonial .testimonial-thumbs {
+    left: 0;
+}
+.testimonial .testimonial-block .inner-box .image {
+    top: -10px;
+}
+
+.team .item {
+    margin-bottom: 30px;
+}
+.faqs-testimonials .accordion-box .block .acc-btn {
+    padding: 15px 40px 15px 20px;
+}
+.faqs-testimonials .accordion-box .block .acc-btn:before {
+    top: 0;
+    width: 2px;
+    height: 100%;
+}
+.blog .inner-box:before {
+    bottom: 35px;
+    background: #fff;
+}
+.blog .inner-box:after {
+	bottom: 35px;
+    background: #EC4760;
+    height: 2px;
+}
+.blog .inner-box:hover:after {
+    bottom: 33px;
+}
+.map-contact-info .contact {
+    padding: 100px 0px 100px 60px;
+}
+.main-footer {
+    background: #0A3247;
+}
+.main-footer .subscribe h4 {
+    text-align: left;
+}
+.widget-content {
+    margin-bottom: 30px;
+}
+.main-footer .widgets-section {
+    padding-bottom: 0;
+}
+.main-footer .subscribe {
+    margin-left: 0;
+    margin-top: 40px;
+}
+.main-footer .subscribe .form-group button {
+	position: relative;
+    right: 0;
+    margin-top: 30px;
+}
+.main-header.style-two .header-top .mail {
+    display: none;
+}
+.main-header.style-two .welcome {
+    text-align: center;
+    float: unset;
+}
+.main-header.style-two .main-nav__right {
+    padding: 23px 0px 23px 0px;
+}
+.address .col-xl-4 {
+    margin-bottom: 30px;
+}
+.address .col-xl-4:last-child {
+    margin-bottom: 0px;
+}
+.service-two .item .image img {
+    width: 100%;
+}
+.service-two .col-xl-4 {
+    margin-bottom: 30px;
+}
+.service-two .col-xl-4:last-child {
+    margin-bottom: 0px;
+}
+.about-two .images-gallery .image img {
+    width: unset;
+    margin-bottom: 40px;
+}
+.thumb-box {
+    display: none;
+}
+.whychoosus-two .image-one {
+    /* margin-top: 40px; */
+}
+.whychoosus-two .image-two img {
+    max-width: 100%;
+    float: unset;
+}
+.whychoosus-two .image-two {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    margin-top: 40px;
+}
+.whychoosus-two .image-one img {
+    float: unset;
+    padding-bottom: 100px;
+}
+.whychoosus-two .btn-box {
+    margin-top: 40px;
+}
+.contact-info .theme-btn.btn-style-one {
+    float: left;
+}
+.contact-info .contact {
+    padding-bottom: 70px;
+}
+.contact-info .full-content {
+    padding: 45px 30px 30px 30px;
+    background: #fff;
+    margin-bottom: 90px;
+}
+.main-footer.style-two {
+    background: #093951;
+}
+.whychoosus-three .content-box {
+    margin-bottom: 40px;
+}
+.main-header.style-four .header-top .mail {
+    display: none;
+}
+.main-header.style-four .welcome {
+    float: unset;
+}
+.main-header.style-four .main-nav__right {
+    padding: 23px 0px 23px 0px;
+}
+.about-style-four .image img {
+    max-width: 100%;
+    float: unset;
+}
+.about-style-four .image {
+    left: 0;
+}
+.about-style-four .sec-title-two {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.funfact-style-four .inner {
+    margin-bottom: 55px;
+}
+.funfact-style-four {
+    padding: 116px 0px 50px 0px;
+}
+.history-tab .left-column {
+    width: 100%;
+    padding: 100px 0px 40px 15px;
+}
+.history-tab .right-column {
+    width: 100%;
+}
+.history-tab .right-column img {
+    max-width: 100%;
+    float: unset;
+}
+.history-tab .tab-btn-style-one {
+    position: relative;
+    right: 0;
+    top: 0;
+    border: unset;
+    margin-bottom: 40px;
+}
+.history-tab .nav-tabs .nav-item {
+    display: inline-block;
+	margin-right: 15px;
+}
+.history-tab .nav-tabs .nav-link {
+    transform: translateY(-3px) skew(0deg);
+}
+.history-tab .nav-tabs .nav-item:nth-child(2), .history-tab .nav-tabs .nav-item:nth-child(3), .history-tab .nav-tabs .nav-item:nth-child(4) {
+    position: relative;
+    left: 0;
+}
+.testimonials-style-four .item:before {
+    background: transparent;
+}
+.testimonials-style-four .item .thumb-image {
+    width: 200px;
+	margin: 0 auto;
+}
+.testimonials-style-four .item h4, .testimonials-style-four .item .ratting, .testimonials-style-four .item .icon, .testimonials-style-four .item .thumb-image {
+    position: relative;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+.testimonials-style-four .item {
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+}
+.testimonials-style-four .item .thumb-image img, .testimonials-style-four .item p, .testimonials-style-four .item .icon, .testimonials-style-four .item .ratting {
+    margin-bottom: 30px;
+}
+.testimonials-style-four .item p {
+    margin-bottom: 30px;
+}
+.testimonials-style-four .item h4 {
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+.pricing .inner-box h2 {
+    left: 0;
+    transform: translateY(-3px) skew(0deg);
+}
+.pricing .pricing-table {
+    margin-bottom: 55px;
+}
+.main-footer.style-four .subscribe {
+    margin: 0px 0px;
+}
+.main-footer.style-four .subscribe .form-group button {
+    padding: 20px 48px;
+    height: unset;
+    transform: translateY(-3px) skew(0deg);
+}
+.footer-bottom.style-four .auto-container {
+    transform: translateY(-3px) skew(0deg);
+}
+.footer-bottom.style-four {
+    text-align: center;
+}
+.footer-bottom.style-four .copyright p {
+    text-align: center;
+}
+.faq .faq-sidebar {
+    margin-top: 40px;
+}
+.login-form {
+    margin-bottom: 40px;
+}
+.mr_five .about-two .images-gallery img {
+    margin-top: 0;
+    margin-bottom: 50px;
+    width: 100%;
+    padding-right: 0;
+}
+
+
+
+
+
+
+
+
+
+	
+
+}
+
+@media only screen and (max-width: 1139px){
+
+	.main-header .nav-outer .main-menu,
+	.sticky-header{
+		display: none !important;
+	}
+	.nav-outer .mobile-nav-toggler{
+		display: block;
+	}
+	.main-nav__right {
+		display: none;
+	}
+	.main-header.style-four .nav-outer .mobile-nav-toggler {
+		color: #fff;
+	}
+
+
+}
+
+@media only screen and (max-width: 991px){
+.main-header .header-top .social-links {
+    display: none;
+}
+.main-header .header-top .mail {
+    float: right;
+}
+.main-header .header-top .inner {
+    overflow: hidden;
+}
+.main-header .header-top .location {
+    float: left;
+}
+.main-header .header-top .mail {
+    margin-left: 0px !important;
+}
+.company-direction {
+    text-align: center;
+}
+.company-direction .btn-one {
+    margin-top: 0;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+.company-direction .btn-two {
+    display: inline-block;
+}
+.testimonial .testimonial-block .inner-box .image {
+    left: 0;
+    padding-left: 45px;
+    margin-top: 20px;
+}
+.testimonial .author-thumb {
+    left: 0px;
+}
+.why-choos-us {
+    padding: 100px 0px 100px 0px;
+    background: #FAFAFA;
+}
+
+.why-choos-us .btn-box {
+    text-align: center;
+	margin-bottom: 45px;
+}
+.why-choos-us .image img {
+    width: 100%;
+}
+.calltoaction .btn-box {
+    background: transparent;
+    padding: 0;
+    text-align: left;
+    padding-top: 30px;
+}
+.map-contact-info .contact {
+    margin-right: 0;
+    padding-left: 0;
+}
+.main-header.style-two .header-top .inner .language {
+    display: none;
+    float: unset;
+}
+.main-header.style-two .welcome {
+    float: unset;
+}
+.about-two .info-column.col-xl-4 {
+    margin-bottom: 40px;
+}
+.about-two .info-column.col-xl-4:last-child {
+    margin-bottom: 0px;
+}
+.cases-section .case-tabs .case-tab-btns {
+    margin-right: 0;
+    margin-left: 0;
+}
+.contact-info .contact {
+    margin-right: 0;
+}
+.info-style-three .item .icon {
+    position: relative;
+    left: 0;
+    top: 0;
+    margin-bottom: 10px;
+}
+.info-style-three .item {
+    padding: 45px 30px 45px 30px;
+    text-align: center;
+}
+.info-style-three .item:before {
+    opacity: 0;
+}
+.about-three .full-content .info-column {
+    margin-bottom: 40px;
+}
+.about-three .full-content .info-column:last-child {
+    margin-bottom: 40px;
+}
+.main-header.style-four .header-top .mail {
+    display: none;
+}
+#RTL.calltoaction .btn-box {
+    text-align: right;
+    margin-bottom: 30px;
+}
+.sidebar-page-container .progress-box {
+    padding: 30px 50px 30px 50px;
+}
+.sidebar-page-container .progress-block {
+    margin-bottom: 30px;
+}
+.mr_task1.features-three .image_mr {
+    display: none;
+}
+.mr_task1.features-three .right_tex {
+    padding: 30px 15px 30px 15px;
+}
+
+
+
+
+
+}
+
+@media only screen and (min-width: 768px){
+	.main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul{
+		display:block !important;
+		visibility:hidden;
+		opacity:0;
+	}
+}
+
+
+@media only screen and (max-width: 767px){	
+.main-header .header-top .location {
+    float: unset;
+    display: block;
+    text-align: center;
+}
+.main-header .header-top .mail {
+    float: unset;
+    display: block;
+    text-align: center;
+}
+.banner-section .btn-style-two {
+    display: none;
+}
+.company-direction .btn-two a, .company-direction .btn-one a {
+    font-size: 20px;
+}
+.company-direction .btn-style-one .btn-title {
+    padding: 11px 15px 11px 15px;
+}
+.work .item .lower-content {
+    bottom: -285px;
+}
+.banner-carousel .content-box h1 {
+    font-size: 65px;
+    line-height: 80px;
+}
+.banner-carousel .content-box h3 {
+    padding-left: 0;
+}
+#RTL .banner-carousel .content-box h3 {
+    padding-right: 0;
+}
+.banner-carousel .content-box h3:before {
+    opacity: 0;
+}
+
+.cases-section .case-block-one {
+    padding: 0 15px;
+}
+.comments-area .comment-box .author-thumb {
+    position: relative;
+    left: 0;
+    top: 0;
+    margin-bottom: 20px;
+}
+.comments-area .comment {
+    padding: 30px 30px 20px 30px;
+}
+.comments-area .comment-box .reply-btn {
+    position: relative;
+    top: 0;
+    right: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 575px){	
+.banner-section .btn-style-one .btn-title {
+    padding: 15px 70px 15px 20px;
+}
+
+.cases-section .case-block-one .overlay {
+    position: relative;
+}
+.sec-title h3 {
+    padding-left: 0;
+}
+.sec-title h3:before {
+    opacity: 0;
+}
+.service-details .date {
+    position: relative;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+.mr_task1.features-three .image_mr {
+    display: none;
+}
+.mr_task1.features-three .right_tex {
+    padding: 30px 30px 30px 30px;
+}
+
+
+
+
+
+
+
+
+}
+@media only screen and (max-width: 330px){	
+
+.banner-carousel .content-box .btn-box .theme-btn {
+    margin-right: 0;
+}
+.faq .accordion-box .block .acc-btn {
+    padding: 15px 40px 15px 0px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

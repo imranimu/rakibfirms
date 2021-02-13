@@ -1,0 +1,79 @@
+#RTL.main-header .header-top .mail {
+    margin-left: 270px;
+}
+#RTL .banner-carousel .content-box {
+    text-align: right;
+}
+#RTL .banner-carousel .content-box h3:before {
+    left: unset;
+    right: 0;
+}
+#RTL .banner-carousel .content-box h3 {
+    padding-right: 130px;
+}
+#RTL.service {
+    text-align: right;
+}
+#RTL.service .item h3:before {
+    left: unset;
+    right: 0;
+	width: 48px;
+}
+#RTL.service .item h3 {
+    padding-right: 60px;
+}
+#RTL.about-us .content {
+    text-align: right;
+}
+#RTL.about-us h3:before {
+    left: unset;
+    right: 0;
+	width: 48px;
+}
+#RTL.about-us h3 {
+    padding-right: 60px;
+}
+#RTL.service-facilites .item {
+    text-align: right;
+}
+#RTL.service-facilites .item .icon {
+    left: unset;
+    right: 0;
+    top: 25px;
+}
+#RTL.service-facilites .item h2:before {
+    left: unset;
+    right: 0;
+}
+#RTL.service-facilites .item {
+    padding: 0px 90px 0px 0px;
+}
+#RTL .sec-title {
+    text-align: right;
+}
+#RTL .sec-title h3:before {
+    left: unset;
+    right: 0;
+	width: 48px;
+}
+#RTL .sec-title h3 {
+    padding-right: 75px;
+}
+#RTL.why-choos-us .btn-box {
+    text-align: right;
+}
+#RTL.map-contact-info .info-column .icon-box {
+    padding: 0px 96px 30px 0px;
+    text-align: right;
+}
+#RTL.map-contact-info .info-column .icon-box .icon {
+    left: unset;
+    right: 0;
+    top: 0;
+}
+#RTL.map-contact-info .btn-box {
+    text-align: right;
+}
+#RTL.main-footer {
+    text-align: right;
+}
